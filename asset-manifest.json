@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blog-app-kshitij/static/css/main.893f717b.css",
+    "main.js": "/blog-app-kshitij/static/js/main.b5c7ec54.js",
+    "index.html": "/blog-app-kshitij/index.html",
+    "main.893f717b.css.map": "/blog-app-kshitij/static/css/main.893f717b.css.map",
+    "main.b5c7ec54.js.map": "/blog-app-kshitij/static/js/main.b5c7ec54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.893f717b.css",
+    "static/js/main.b5c7ec54.js"
+  ]
+}
